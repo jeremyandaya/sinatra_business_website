@@ -6,7 +6,7 @@ get "/" do
 	
 end
 
-get "/about" do 
+get "/products" do 
 	erb :about
 	
 end
