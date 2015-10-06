@@ -44,6 +44,7 @@ div.img a:hover img {
     background-color: #ccc;
     padding: 8px;
     margin-left: 600px;
+    position: absolute;
 }
 
 
