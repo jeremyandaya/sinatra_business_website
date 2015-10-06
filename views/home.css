@@ -1,3 +1,39 @@
 body{
-	background-color: 255,0,0
+	background-color: orange;
 }
+form {
+   
+    margin: 0 auto;
+    width: 420px;
+    padding: 1em;
+    border: 2px solid #CCC;
+    border-radius: 1em;
+}
+
+form div + div {
+    margin-top: 2em;
+}
+label {
+    
+    display: inline-block;
+    width: 92px;
+    text-align: right;
+}
+input, textarea {
+    font: 1em sans-serif;
+
+    
+    width: 310px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	border: 1px solid #998;
+}
+
+.make_aligned{
+/*position: absolute;
+margin-left:8px;
+text-align: left;
+padding-left: 600px;
+}
+
+
