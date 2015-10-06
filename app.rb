@@ -7,7 +7,7 @@ get "/" do
 end
 
 get "/products" do 
-	erb :about
+	erb :products
 	
 end
 
