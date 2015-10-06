@@ -1,0 +1,49 @@
+.costumes {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: auto;
+    width: auto;
+    float: right;
+    text-align: center;
+
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    height: auto;
+    width: auto;
+    float: right;
+    text-align: center;
+}
+
+div.img img {
+    display: inline;
+    /*margin: 5px;*/
+    border: 1px solid #ffffff;
+}
+
+div.img a:hover img {
+    border:1px solid orange ;
+}
+
+.desc {
+    text-align: center;
+    font-weight: normal;
+    width: 120px;
+    margin: 5px;
+}
+
+.scroll {
+    height: 550px;
+    width: 700px;
+    overflow: auto;
+    border: 1px solid #666;
+    background-color: #ccc;
+    padding: 8px;
+    margin-left: 600px;
+}
+
+
